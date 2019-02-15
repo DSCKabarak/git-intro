@@ -17,4 +17,3 @@ You’ll learn how to:
 - Name your repository `hello-world`.
 - Write a short description.
 - Select Initialize this repository with a README.  
-![](https://guides.github.com/activities/hello-world/create-new-repo.png)
