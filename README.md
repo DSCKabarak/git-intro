@@ -38,6 +38,7 @@ ___________
 - In the editor, write a bit about yourself.
 - Write a commit message that describes your changes.
 - Click `Commit` changes button.
+
 ### 4. PRs (Pull Requests) & Commits 
 ___________
 PRs are the heart of collaboration on GitHub. 
