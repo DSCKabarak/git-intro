@@ -31,13 +31,13 @@ We use branches to experiment and make edits before committing them to `master`.
 When you create a branch off the master branch, _you’re making a copy, or snapshot_, of master as it was at that point in time. 
 If someone else made changes to the master branch while you were working on your branch, you could pull in those updates.
 
-### 3. Make and commit changes
+### 3. Make and commit changes  
 ___________
 - Click the `README.md` file.
 - Click the  pencil icon in the upper right corner of the file view to edit.
 - In the editor, write a bit about yourself.
 - Write a commit message that describes your changes.
-- Click `Commit` changes button.
+- Click `Commit` changes button.  
 
 ### 4. PRs (Pull Requests) & Commits 
 ___________
