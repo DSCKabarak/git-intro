@@ -1,3 +1,6 @@
+
+![](https://img.shields.io/badge/DSC-Kabarak-blue.svg)   
+
 # Introduction to Git version Control
 
 **GitHub** is a code hosting platform for _version control_ and _collaboration_.  
