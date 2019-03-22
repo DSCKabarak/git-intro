@@ -1,2 +1,2 @@
 Brian Opiyo
-Bethwel Kiprop
+Edward Dume
