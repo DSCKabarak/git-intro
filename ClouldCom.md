@@ -1,2 +1,2 @@
-Brian Opiyo
-Bethwel Kiprop
+Brian Opiyo.  
+Bethwel Kiprop.  
