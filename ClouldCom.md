@@ -1,17 +1,4 @@
-Brian Opiyo.  
-Bethwel Kiprop.  
-Gaius Nduko.  
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
+1. okemwa wes.  
+2. Brian Opiyo.  
+3. Bethwel Kiprop.  
+4. Gaius Nduko. 
