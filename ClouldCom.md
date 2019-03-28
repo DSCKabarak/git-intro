@@ -1,3 +1,5 @@
+# CloudCom 1.0 Participants
+
 1. okemwa wes.  
 2. Brian Opiyo.  
 3. Bethwel Kiprop.  
@@ -7,3 +9,4 @@
 7. Muriu Derrick.  
 8. Robert Gakuu.   
 9. sabina kahu.  
+10. Edward Dume.  
