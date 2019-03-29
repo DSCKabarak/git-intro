@@ -1,4 +1,4 @@
-# CloudCom 1.0 Participants
+ # CloudCom 1.0 Participants
 
 1. okemwa wes.  
 2. Brian Opiyo.  
@@ -12,3 +12,4 @@
 10. Edward Dume.  
 11. Rotich.   
 12. Anne.   
+13. Sabina Wangari.  
