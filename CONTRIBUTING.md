@@ -1,3 +1,2 @@
-
 Gatare Libère : gatarelib@gmail.com
-Easter Mukora : mukoraeaster@gmail.com
+Eric Wahome : erycohomz@gmail.com
