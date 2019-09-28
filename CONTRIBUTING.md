@@ -1,3 +1,3 @@
-
 Gatare Libère : gatarelib@gmail.com
-Easter Mukora : mukoraeaster@gmail.com
+Kevin Mbuthia : kevinmbuthia7@gmail.com
+james bengi:jamesbengi21@gmail.com
