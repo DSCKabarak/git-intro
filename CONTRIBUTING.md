@@ -11,6 +11,7 @@ Timothy Ngeno : timothyk@kabarak.ac.ke
 Bryan Theuri : brayomuggs@gmail.com
 Collins Swai : swailerc23@gmail.com
 Easter Mukora : mukoraeaster@gmail.com
+Timothy Ngeno : timothyk@kabarak.ac.ke
 okero patrick : okeropatrick@gmail.com
 jonathan muoki : jonamuokih@gmail.com
 Jesse Bett: jessekip21@gmail.com
