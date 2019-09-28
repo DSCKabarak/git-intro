@@ -1,1 +1,1 @@
-Gatare Lière : gatarelib@gmail.com
+Gatare Libère : gatarelib@gmail.com
