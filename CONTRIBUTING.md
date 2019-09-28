@@ -1,7 +1,8 @@
 Gatare Libère : gatarelib@gmail.com
+Kibe Munyiri : benmarkq@gmail.com
 Yusuf Makonhge : yusufmakonge@gmail.com
 Kevin Mbuthia : kevinmbuthia7@gmail.com
-james bengi:jamesbengi21@gmail.com
+james bengi : jamesbengi21@gmail.com
 MercyCherotich : mercyngerechi25@gmail.com
 Trizahchebet : trizachebet8@gmail.com
 scholar mutua : scolarmukai@kabarak.ac.ke
