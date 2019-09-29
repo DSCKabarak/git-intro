@@ -12,6 +12,7 @@ Timothy Ngeno : timothyk@kabarak.ac.ke
 Bryan Theuri : brayomuggs@gmail.com
 Collins Swai : swailerc23@gmail.com
 Easter Mukora : mukoraeaster@gmail.com
+Bethly Chemutai : chemutaibethly@gmail.com
 purity chepkemoi:pyuah16@gmail.com
 Timothy Ngeno : timothyk@kabarak.ac.ke
 okero patrick : okeropatrick@gmail.com
