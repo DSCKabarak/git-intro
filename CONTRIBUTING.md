@@ -6,7 +6,7 @@ clinbrian kamau:kamauclinbriant100@gmail.com
 Trevor Njoroge : njoroge494@gmail.com  
 Muliann:muliann582@gmail.com      
 Easter Mukora : mukoraeaster@gmail.com  
-jonathan muoki : jonamuokih@gmail.com
+jonathan muoki : jonamuokih@gmail.com   
 limz:kipkiruilims247@gmail.com   
 Tanui Chemutai : ctanui62@gmail.com      
 Eric Wahome : erycohomz@gmail.com     
