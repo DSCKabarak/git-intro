@@ -1,5 +1,5 @@
-Gatare Libère : gatarelib@gmail.com
-Easter Mukora : mukoraeaster@gmail.com
+Gatare Libère : gatarelib@gmail.com   
+Easter Mukora : mukoraeaster@gmail.com   
 hamisisadah : hamisisadah@gmail.com      
 Limz Patrick : kipkiruilims247@gmail.com       
 meshack bett : meshackbett200@gmail.com      
