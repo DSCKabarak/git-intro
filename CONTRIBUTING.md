@@ -1,5 +1,6 @@
-Gatare Libère : gatarelib@gmail.com   
-Easter Mukora : mukoraeaster@gmail.com   
+Gatare Libère : gatarelib@gmail.com    
+Easter Mukora : mukoraeaster@gmail.com    
+Limz Patrick : kipkiruilims247@gmail.com       
 meshack bett : meshackbett200@gmail.com      
 Antony Kibet : atarus@kabarak.ac.ke    
 Collins Cheruiyot : collinscheruiyot15@gmail.com     
@@ -39,4 +40,4 @@ Morgan Gicheha : morgangicheha4@gmail.com
 victor kiprop : vkkirui@kabarak.ac.ke   
 Keith Macharia : keithmacharia0@gmail.com   
 Trevor Njoroge : njoroge494@gmail.com   
-Habiton Kipkemboi : habitonkipkemboi@gmail.com   
+Habiton Kipkemboi : habitonkipkemboi@gmail.com    
