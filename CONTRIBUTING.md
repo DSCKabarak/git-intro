@@ -1,16 +1,17 @@
 Gatare Libère : gatarelib@gmail.com   
 Easter Mukora : mukoraeaster@gmail.com   
-Emmanuel changole: manuchangole@gmail.com    
+Collins Cheruiyot : collinscheruiyot15@gmail.com     
+Emmanuel changole : manuchangole@gmail.com    
 Brenda cherono : brendachero20@gmail.com   
 ELIJAH MAINA : elijahm680@gmail.com      
 Muliann : muliann582@gmail.com   
 sadahhamisi : hamisisadah@gmail.com   
-clinbrian kamau:kamauclinbriant100@gmail.com      
+clinbrian kamau : kamauclinbriant100@gmail.com      
 Trevor Njoroge : njoroge494@gmail.com  
 Muliann:muliann582@gmail.com      
 Easter Mukora : mukoraeaster@gmail.com  
 jonathan muoki : jonamuokih@gmail.com   
-limz:kipkiruilims247@gmail.com   
+limz : kipkiruilims247@gmail.com   
 Tanui Chemutai : ctanui62@gmail.com      
 Eric Wahome : erycohomz@gmail.com     
 okemwa wesley : okemwawes@gmail.com   
