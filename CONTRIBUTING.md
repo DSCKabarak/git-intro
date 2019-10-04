@@ -1,4 +1,6 @@
 Gatare Libère : gatarelib@gmail.com   
+Easter Mukora : mukoraeaster@gmail.com
+Tanui Chemutai : ctanui62@gmail.com      
 Eric Wahome : erycohomz@gmail.com     
 okemwa wesley : okemwawes@gmail.com   
 Kibe Munyiri : benmarkq@gmail.com   
