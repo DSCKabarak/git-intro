@@ -1,6 +1,5 @@
 Gatare Libère : gatarelib@gmail.com   
-Eric Wahome : erycohomz@gmail.com   
-Gatare Libère : gatarelib@gmail.com   
+Eric Wahome : erycohomz@gmail.com     
 okemwa wesley : okemwawes@gmail.com   
 Kibe Munyiri : benmarkq@gmail.com   
 Yusuf Makonhge : yusufmakonge@gmail.com   
