@@ -1,5 +1,6 @@
-Gatare Libère : gatarelib@gmail.com
-Easter Mukora : mukoraeaster@gmail.com
+Gatare Libère : gatarelib@gmail.com   
+Easter Mukora : mukoraeaster@gmail.com   
+Brenda cherono : brendachero20@gmail.com   
 ELIJAH MAINA : elijahm680@gmail.com      
 Muliann : muliann582@gmail.com   
 sadahhamisi : hamisisadah@gmail.com   
