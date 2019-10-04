@@ -1,5 +1,6 @@
-Gatare Libère : gatarelib@gmail.com    
-Easter Mukora : mukoraeaster@gmail.com    
+Gatare Libère : gatarelib@gmail.com
+Easter Mukora : mukoraeaster@gmail.com
+hamisisadah : hamisisadah@gmail.com      
 Limz Patrick : kipkiruilims247@gmail.com       
 meshack bett : meshackbett200@gmail.com      
 Antony Kibet : atarus@kabarak.ac.ke    
@@ -10,8 +11,7 @@ ELIJAH MAINA : elijahm680@gmail.com
 Muliann : muliann582@gmail.com   
 sadahhamisi : hamisisadah@gmail.com   
 clinbrian kamau : kamauclinbriant100@gmail.com      
-Trevor Njoroge : njoroge494@gmail.com  
-Muliann:muliann582@gmail.com      
+Trevor Njoroge : njoroge494@gmail.com       
 Easter Mukora : mukoraeaster@gmail.com  
 jonathan muoki : jonamuokih@gmail.com   
 limz : kipkiruilims247@gmail.com   
