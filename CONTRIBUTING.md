@@ -1,5 +1,6 @@
 Gatare Libère : gatarelib@gmail.com   
-Easter Mukora : mukoraeaster@gmail.com
+Easter Mukora : mukoraeaster@gmail.com   
+Trevor Njoroge : njoroge494@gmail.com  
 Muliann:muliann582@gmail.com      
 Easter Mukora : mukoraeaster@gmail.com  
 jonathan muoki : jonamuokih@gmail.com
