@@ -43,4 +43,4 @@
 41. Keith Macharia : keithmacharia0@gmail.com   
 42. Trevor Njoroge : njoroge494@gmail.com   
 43. Habiton Kipkemboi : habitonkipkemboi@gmail.com    
-44. Timz Owen         : ktimothy@kabarak.ac.ke
+45. Faith chepchirchir :faithchepchirchr3008@gmail.com
