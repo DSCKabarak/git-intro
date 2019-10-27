@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Awesome-Contributers-success?style=flat-square) 
+N![](https://img.shields.io/badge/Awesome-Contributers-success?style=flat-square) 
 - - - - 
 1. Gatare Libère : gatarelib@gmail.com   
 2. Easter Mukora : mukoraeaster@gmail.com   
@@ -42,6 +42,20 @@
 40. Victor Kiprop : vkkirui@kabarak.ac.ke   
 41. Keith Macharia : keithmacharia0@gmail.com   
 42. Trevor Njoroge : njoroge494@gmail.com   
-43. Habiton Kipkemboi : habitonkipkemboi@gmail.com    
-44. Timz Owen         : ktimothy@kabarak.ac.ke
-45. Abigael Kirwa : abigaelkirwa1937@gmail.com
+43. Habiton Kipkemboi : habitonkipkemboi@gmail.com              
+44. Timz Owen : ktimothy@kabarak.ac.ke   
+45. Chechy Esther : estherchechy@gmail.com          
+46. Brian Isale :isale.bryan@gmail.com   
+47. Chechy Esther : estherchechy@gmail.com   
+48. Sebarundi Senior : seniorsbdi@gmail.com   
+49. mercy njeri : mercykiria01@gmail.com   
+50. Jeremy Gitau : jeremyjey254@gmail.com    
+51. Michelle Wainaiana :michellewainaina.20@gmail.com     
+52. Timz Owen: ktimothy@kabarak.ac.ke     
+53. Tanui Mercy : tanuimercychemutai@gmail.com   
+54. Faith chepchirchir :faithchepchirchr3008@gmail.com
+55. Alinoor Shukri : alinoorshukri7@gmail.com   
+56. Haron Rono (Tuchi): ronoharonkip@gmail.com      
+57. Bett Moh : mjemutai54@gmail.com   
+58. Ian Njuguna:njugunaayan@gmail.com   
+59. Abigael Kirwa : abigaelkirwa1937@gmail.com
