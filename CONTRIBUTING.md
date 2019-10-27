@@ -57,7 +57,7 @@
 55. Alinoor Shukri : alinoorshukri7@gmail.com   
 56. Haron Rono (Tuchi): ronoharonkip@gmail.com      
 57. Bett Moh : mjemutai54@gmail.com   
-58. Ian Njuguna:njugunaayan@gmail.com   
+58. Ian Njuguna : njugunaayan@gmail.com   
 59. Abigael Kirwa : abigaelkirwa1937@gmail.com    
 60. Noreen Filikita : noreenfilikita@gmail.com   
 61. DevBett : chbett@kabarak.ac.ke   
