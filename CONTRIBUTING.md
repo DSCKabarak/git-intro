@@ -39,7 +39,7 @@ N![](https://img.shields.io/badge/Awesome-Contributers-success?style=flat-square
 37. jonathan muoki : jonamuokih@gmail.com   
 38. Jesse Bett : jessekip21@gmail.com     
 39. Morgan Gicheha : morgangicheha4@gmail.com   
-40. Victor Kiprop : vkkirui@kabarak.ac.ke      
+40. Victor Kiprop : vkkirui@kabarak.ac.ke          
 41. Keith Macharia : keithmacharia0@gmail.com     
 42. Trevor Njoroge : njoroge494@gmail.com      
 43. Habiton Kipkemboi : habitonkipkemboi@gmail.com              
@@ -63,3 +63,4 @@ N![](https://img.shields.io/badge/Awesome-Contributers-success?style=flat-square
 61. DevBett : chbett@kabarak.ac.ke   
 62. Collins Yegon: ckip254@gmail.com   
 63. Walter Banda : walterkaimurima@gmail.com   
+64. Noreen Filikita : noreenfilikita@gmail.com
