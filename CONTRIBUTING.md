@@ -59,8 +59,8 @@
 57. Bett Moh : mjemutai54@gmail.com   
 58. Ian Njuguna:njugunaayan@gmail.com   
 59. Abigael Kirwa : abigaelkirwa1937@gmail.com    
-60. Noreen Filikita : noreenfilingtax@gmail.com   
+60. Noreen Filikita : noreenfilikita@gmail.com   
 61. DevBett : chbett@kabarak.ac.ke   
 62. Collins Yegon: ckip254@gmail.com   
 63. Walter Banda : walterkaimurima@gmail.com   
-64. Noreen Filikita : noreenfilikita@gmail.com
+
