@@ -42,5 +42,14 @@
 40. Victor Kiprop : vkkirui@kabarak.ac.ke   
 41. Keith Macharia : keithmacharia0@gmail.com   
 42. Trevor Njoroge : njoroge494@gmail.com   
-43. Habiton Kipkemboi : habitonkipkemboi@gmail.com    
-44. Alinoor Shukri : alinoorshukri7@gmail.com
+43. Habiton Kipkemboi : habitonkipkemboi@gmail.com         
+44. Brian Isale :isale.bryan@gmail.com   
+45. Chechy Esther : estherchechy@gmail.com   
+46. Sebarundi Senior : seniorsbdi@gmail.com   
+47. mercy njeri : mercykiria01@gmail.com   
+48. Jeremy Gitau : jeremyjey254@gmail.com    
+49. Michelle Wainaiana :michellewainaina.20@gmail.com     
+50. Timz Owen: ktimothy@kabarak.ac.ke     
+51. Tanui Mercy : tanuimercychemutai@gmail.com   
+52. Faith chepchirchir :faithchepchirchr3008@gmail.com
+53. Alinoor Shukri : alinoorshukri7@gmail.com   
