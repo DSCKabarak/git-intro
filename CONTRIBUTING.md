@@ -43,4 +43,8 @@
 41. Keith Macharia : keithmacharia0@gmail.com   
 42. Trevor Njoroge : njoroge494@gmail.com   
 43. Habiton Kipkemboi : habitonkipkemboi@gmail.com    
-46. mercy njeri : mercykiria01@gmail.com
+44. mercy njeri : mercykiria01@gmail.com   
+45. Jeremy Gitau : jeremyjey254@gmail.com    
+46. Michelle Wainaiana :michellewainaina.20@gmail.com     
+47. Timz Owen: ktimothy@kabarak.ac.ke     
+48. Tanui Mercy : tanuimercychemutai@gmail.com   
