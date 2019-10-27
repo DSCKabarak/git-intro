@@ -50,7 +50,7 @@
 48. Sebarundi Senior : seniorsbdi@gmail.com   
 49. mercy njeri : mercykiria01@gmail.com   
 50. Jeremy Gitau : jeremyjey254@gmail.com    
-51. Michelle Wainaiana :michellewainaina.20@gmail.com     
+51. Michelle Wainaiana : michellewainaina.20@gmail.com     
 52. Timz Owen : ktimothy@kabarak.ac.ke     
 53. Tanui Mercy : tanuimercychemutai@gmail.com   
 54. Faith chepchirchir :faithchepchirchr3008@gmail.com
