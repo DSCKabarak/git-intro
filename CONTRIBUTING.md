@@ -43,10 +43,10 @@
 41. Keith Macharia : keithmacharia0@gmail.com   
 42. Trevor Njoroge : njoroge494@gmail.com   
 43. Habiton Kipkemboi : habitonkipkemboi@gmail.com    
-44. Sebarundi Senior : seniorsbdi@gmail.com   
-45. mercy njeri : mercykiria01@gmail.com   
-46. Jeremy Gitau : jeremyjey254@gmail.com    
-47. Michelle Wainaiana :michellewainaina.20@gmail.com     
-48. Timz Owen: ktimothy@kabarak.ac.ke     
-49. Tanui Mercy : tanuimercychemutai@gmail.com   
-
+44. Chechy Esther : estherchechy@gmail.com   
+45. Sebarundi Senior : seniorsbdi@gmail.com   
+46. mercy njeri : mercykiria01@gmail.com   
+47. Jeremy Gitau : jeremyjey254@gmail.com    
+48. Michelle Wainaiana :michellewainaina.20@gmail.com     
+49. Timz Owen: ktimothy@kabarak.ac.ke     
+50. Tanui Mercy : tanuimercychemutai@gmail.com   
