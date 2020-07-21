@@ -61,7 +61,7 @@ You can even open pull requests in your own repository and merge them yourself. 
 ### Step 1. Create a repository on github;
 after signing in, on the top right corner click  the __+__ sign to allow you to create a new repository.
 
-![New Repo - HelloGithub](res/newrepo.jpg)
+![New Repo - HelloGithub](screenshot.png)
 
 ## Git at Command
 
