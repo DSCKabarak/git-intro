@@ -55,3 +55,90 @@ You can even open pull requests in your own repository and merge them yourself. 
 ### Wanna make things easier? Why not. Here's the legendary tool for that. 
 [GitKraken](http://gitkraken.com)
 ![logo](res/GitKraken.png) 
+
+
+
+
+### On the terminal side;;
+
+### Step 1. Create a repository on github;
+after signing in, on the top right corner click  the __+__ sign to allow you to create a new repository.
+
+![New Repo - HelloGithub](screenshot.PNG)
+
+## Git at Command
+
+### Step 2.Clone your repository
+_________________
+Navigate to your current directory and open your file on an Editor
+```
+    cd myfiles
+
+```
+once you are on your IDE, then open a terminal or __Gitbash here__ and clone your repository
+```
+    git clone urlLinkHere
+    git clone git clone https://github.com/TimzOwen/newRepoCreated
+
+```
+
+We are using a sample repo to demonstrate how it is done. now place your github url as it appears
+on the page.What **GitClone** does is to create a copy of your repository on your local computer.
+
+upon running the gitclone, you may encounter a final result/output like this:
+```
+    Cloning into 'new-repo'...
+    remote: Counting objects: 5, done.
+    remote: Compressing objects: 100% (4/4), done.
+    remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+    Unpacking objects: 100% (5/5), done.
+    Checking connectivity... done.
+
+```
+
+This means you have successfully cloned the exact repo on your local PC.
+
+## Tracking changes with Git.
+________________
+### Step 3. Edit your file and Lets see the changes
+
+Make the necessary changes in your file. you can give some acomplishments you have achieved or tell us more 
+about you as a developer. Then go back to the terminal window:
+
+```
+    git init
+    git status
+
+```
+This command tells us more about the recent changes made to the file.For our case it will indicate that we modified the README.md file and highlight it in red color.
+To add the changes made to our repo, we have to type the following commands
+__git inti__ initializes a .git to enable you to work on git commands
+
+```
+    git add
+    git commit
+
+```
+
+___ git add . __  and __git commit -m "commit message__ means we are adding all file changes and then writing the changes we made on a commit message respectively.
+Git add moves the files to a **staging** area. Git commit now makes them permanent of the current state.
+
+```
+    git add .
+    git commit -m "edited my readme"
+```
+______________
+### Step 4. Pushing changes to github.
+
+```
+    git push
+    git push -u origin master
+    git push remote origin urlTopushTo
+    
+```
+The above terminal commands play a big role in making a copy of your project from your __local PC__ TO
+__your git repo__ .
+
+pushing to the master makes changes to the root brach. its advisable to make small changes not on the master branch.
+
+
