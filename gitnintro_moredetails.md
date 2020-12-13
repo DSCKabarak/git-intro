@@ -105,3 +105,46 @@ Keep track of changes made in a file
 
 [Patch more details](http://man7.org/linux/man-pages/man1/patch.1.html)
 
+
+### Installing Git on Windows
+
+check for the version with
+
+        git --version
+
+[Download page](https://git-scm.com/downloads)
+
+[installation Instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+### Working with Git.
+
+Configuration:
+
+    we user the flag - to set to all repositories
+    
+    git config --global user.email "timzowen@gmail.com"
+    
+    git config --global user.name "Timz Owen"
+
+### create using simple project
+
+    mkdir gitChecks-------> creates a new file on your system
+    
+    cd into the project file
+    
+    git init----->creates a new repository
+    
+    ls -la --->checks if file exits, list all starting with .
+    
+    ls -l .git --->check the contents in the file
+
+    #staging area (File maintained by Git containing all the files and changes to the next commit)
+    
+    git add filename.py------->keep track of all file changes (staging area)
+    
+    git status------> check the current working tree and pending changes made
+    
+    git commit----->committing the changes made (you can write a commit message)
+
+### Tracking File changes
+
